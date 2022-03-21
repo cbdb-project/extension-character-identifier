@@ -1,12 +1,12 @@
 # Extension-character-identifier
 
-# What this function do?
+### What this function do?
 Identify whether the rare characters exist in your text.
 
-# What is the identify range?
+### What is the identify range?
 This function only identifies the characters in CJK E,F,and G extensions.
 
-# What is the result?
+### What is the result?
 A dictionary of found rare characters as index and its belonging extension.
 
 # How to use it?
